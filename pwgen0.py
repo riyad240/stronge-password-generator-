@@ -1,7 +1,7 @@
 import random
 import string
 
-length = int(input(" How Much length you want ?"))
+length = int(input(" Enter Password length ?"))
 
 pword = string.ascii_letters + string.digits
 
